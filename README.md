@@ -1,4 +1,4 @@
-# We Love Movies Back-end Application: [Live Demo](https://stark-chamber-15944.herokuapp.com/movies)
+# We Love Movies Back-end Application: 
 
 ## Project Overview
 > - Created a database and restful API that returns information about movies, reviews, theaters, and critics
